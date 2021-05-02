@@ -10,6 +10,7 @@
     -   Working with Multifunctional Teams (MKT, Sales, IT).
 - 🌱 &nbsp; I'm currently working on improving my Web Development Skills. 
     -   Focus on MERN Stack. Mostly Frontend and Backend basics
+    -   Creating awesome projects in [Platzi Master](https://platzi.com/blog/conoce-que-es-platzi-master/)
 
 <h3>🛠 Tech Stack</h3>
 
