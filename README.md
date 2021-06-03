@@ -26,6 +26,14 @@
 
 ###  🧮🧪 Projects In Development
 ---
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidevOS&repo=the-market-place)](https://github.com/davidevOS/the-market-place)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iqrivas&repo=distance-calculator)](https://github.com/iqrivas/distance-calculator)
+
+
+###  🧮🧪 Recent Projects
+---
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iqrivas&repo=nonnatus-coffee)](https://github.com/iqrivas/nonnatus-coffee)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iqrivas&repo=teacher-dashboard)](https://github.com/iqrivas/teacher-dashboard)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iqrivas&repo=savemymoney)](https://github.com/iqrivas/savemymoney)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iqrivas&repo=bettyb)](https://github.com/iqrivas/bettyb)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iqrivas&repo=altardepterio)](https://github.com/iqrivas/altardepterio)
